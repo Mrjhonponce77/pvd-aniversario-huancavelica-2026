@@ -170,8 +170,8 @@ window.PVD_DATA = {
   },
 
   admin: {
-    username: "admin.pvd",
-    password: "123456",
+    username: "Jhon.Admin",
+    password: "01234567890",
     storage: {
       mode: "local-json",
       label: "Local + respaldo JSON",
